@@ -1,0 +1,29 @@
+# KiCad project files to ignore
+
+# Backup files
+*-backups
+
+# Autosave files
+_autosave-*
+
+# Gerber and fabrication output files
+*.gbr
+*.gtl
+*.gbl
+*.gts
+*.gbs
+*.gm*
+*.drl
+*.zip
+
+# Intermediate files
+*.cache.lib
+*.bak
+fp-info-cache
+*.kicad_sch.lck
+*.kicad_prl
+
+# BOM files
+*.csv
+*.tsv
+*.xml

@@ -1,0 +1,20 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "7036a814-0f41-4c6c-a077-a78d90a22423")
+	(paper "A4")
+	(title_block
+		(title "NovaDrone")
+		(date "2025-05-21")
+		(rev "v1.0")
+		(company "BASSINGA")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
