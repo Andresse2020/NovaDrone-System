@@ -1,7 +1,7 @@
-# NovaDrone-System
+# NovaDrone
 
 ## Project Overview
-NovaDrone-System is the development of a complete and high-performance electronic system for a custom quadcopter UAV. Designed and developed entirely from scratch, this project encompasses all necessary subsystems to make the drone fully functional. The system includes power distribution, motor control, flight stabilization, sensor integration, and communication subsystems, built with professional-grade precision.
+NovaDrone is the development of a complete and high-performance electronic system for a custom quadcopter UAV. Designed and developed entirely from scratch, this project encompasses all necessary subsystems to make the drone fully functional. The system includes power distribution, motor control, flight stabilization, sensor integration, and communication subsystems, built with professional-grade precision.
 
 ## Key Features
 - **Custom Flight Controller**: Developed from scratch to control flight dynamics and provide real-time feedback from various onboard sensors.
